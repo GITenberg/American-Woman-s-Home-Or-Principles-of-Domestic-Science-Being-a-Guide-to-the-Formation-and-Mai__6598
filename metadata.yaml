@@ -1,0 +1,39 @@
+_repo: American-Woman-s-Home-Or-Principles-of-Domestic-Science-Being-a-Guide-to-the-Formation-and-Mai__6598
+creator:
+  authors:
+  - agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+  - agent_name: Beecher, Catharine Esther
+    aliases:
+    - Beecher, Catherine E. (Catherine Esther)
+    - Beecher, C. E. (Catherine Esther)
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '2109'
+    url: http://www.gutenberg.org/2009/agents/2109
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Home economics'
+title: "American Woman's Home: Or, Principles of Domestic Science;\r\nBeing a Guide\
+  \ to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian\
+  \ Homes"
+url: http://www.gutenberg.org/ebooks/6598
